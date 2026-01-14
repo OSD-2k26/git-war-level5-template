@@ -1,4 +1,4 @@
-name: Git CTF — Branch Labyrinth
+name: Git CTF Level 5 validator
 
 on: [push]
 
